@@ -56,7 +56,7 @@
 
 ### 01 – Opening Windows Event Viewer
 
-![Opening Windows Event Viewer](01%20Opening%20Windows%20Event%20Viewer.png)
+![Opening Windows Event Viewer](01%20Opening%20windows%20Event%20Viewer.png)
 
 ### 02 – Viewing Windows Security Log
 
